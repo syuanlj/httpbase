@@ -1,6 +1,5 @@
 import { AxiosResponse } from "axios";
 import { HttpBase } from ".";
-
 class MyHttp extends HttpBase {
     private static instance: MyHttp;
 
