@@ -1,0 +1,25 @@
+{
+  "name": "httpbase",
+  "version": "1.0.0",
+  "description": "网络请求组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syuanlj/httpbase.git"
+  },
+  "keywords": [
+    "httpbase"
+  ],
+  "author": "steven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syuanlj/httpbase/issues"
+  },
+  "homepage": "https://github.com/syuanlj/httpbase#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
